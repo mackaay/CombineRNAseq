@@ -1,7 +1,11 @@
+source("http://bioconductor.org/biocLite.R")
+biocLite("limma")
+
 library(edgeR)
 library(limma)
 library(EDASeq)
 library(Glimma)
+
 
 # Read the data into R
 seqdata <- read.delim("data/GSE60450_Lactation-GenewiseCounts.txt", stringsAsFactors = FALSE)
