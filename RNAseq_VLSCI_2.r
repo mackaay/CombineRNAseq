@@ -316,6 +316,3 @@ barcodeplot(fit.cont$t[,1], index=c2.ind[["MENSSEN_MYC_TARGETS"]],
             main="T-statistic: MENSSEN_MYC_TARGETS")
 
 
-
-
-
