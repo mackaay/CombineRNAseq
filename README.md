@@ -22,4 +22,8 @@ NGS sequence analysis with R / Bioconductor: RNA-Seq workflow
 http://biocluster.ucr.edu/~rkaundal/workshops/R_mar2016/RNAseq.html
 
 
+Bioconductor provides training in computational and statistical methods
+
+http://master.bioconductor.org/help/course-materials/
+
 #
